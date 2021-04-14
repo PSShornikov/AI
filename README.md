@@ -1,4 +1,4 @@
-# Artificial intelligence
+# Artificial Intelligence
 
 ## Practice Assignments
 
